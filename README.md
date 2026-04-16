@@ -1,7 +1,4 @@
-Название: ai-job-parser
-Описание (короткое): Autonomous AI agent that monitors freelance job boards, parses full vacancy descriptions, analyzes relevance using DeepSeek API, and delivers structured matches to a web dashboard.
 
-markdown
 # AI Job Parser — Autonomous Freelance Job Agent
 
 An end-to-end autonomous system that monitors freelance job boards (Upwork, FL.ru), parses full vacancy descriptions, analyzes relevance using DeepSeek AI, and delivers structured results to a web dashboard.
